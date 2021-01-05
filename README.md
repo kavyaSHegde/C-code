@@ -1,1 +1,2 @@
-# C-code
+# C++-code
+Bank Management system
